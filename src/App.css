@@ -18,7 +18,7 @@ html {
 
 .main-div {
   min-height: 100vh;
-  background: blue;
+  background: #11b4ef;
   display: flex;
   justify-content: center;
 }
